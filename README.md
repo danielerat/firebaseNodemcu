@@ -1,6 +1,6 @@
 # Introduction
 
-A simple Program to connect the Node MCU Module with Firebase DB
+A simple Program to connect the Node MCU Module with Firebase DB for real time data monitoring.
 
 ## Use Cases
 
