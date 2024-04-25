@@ -13,7 +13,7 @@ Arduino Firebase Library to save your data to a RealtimeDB
 > You can install the IDE from: [ARDUINO IDE](http://www.arduino.cc/en/main/software)
 
 
-### Adding the ESP8266 Board Manager
+###  Adding the ESP8266 Board Manager
 > From Your Arduino IDE go to File > Preferences > Additional Boards Manager 
 > Paste this link and click OK: http://arduino.esp8266.com/stable/package_esp8266com_index.json
 > Go to Tools > Boards > Board Manager 
